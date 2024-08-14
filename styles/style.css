@@ -1,0 +1,94 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 2.8rem;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+.container {
+    background: #eee;
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 0 20px;
+    overflow-x: hidden;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#img-caption {
+    text-align: center;
+    margin-top: 1.25rem;
+    margin-bottom: 2.5rem;
+}
+
+#tribute-info {
+    background: #eee;
+}
+
+p {
+    color: #3a3a3a;
+    text-align: justify;
+    line-height: 1.6rem;
+}
+
+#tribute-info p {
+    text-align: center;
+}
+
+.tribute-info h2 {
+    font-weight: 700;
+    font-size: 1.8rem;
+    line-height: 2rem;
+    text-align: center;
+}
+
+.tribute-info h3 {
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 2rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+article .small {
+    min-width: 800px;
+}
+
+article .phoebe {
+    max-width: 800px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.video {
+    margin: 0 auto;
+    display: block;
+    width: 60%;
+}
+
+footer h3 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    border-bottom: 1px solid black;
+}
